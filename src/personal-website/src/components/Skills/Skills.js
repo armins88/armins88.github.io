@@ -139,7 +139,7 @@ class Exp extends React.Component{
                     </ul>
                     </Col>
                     <Col>
-                    <h1 className={"section-header-"+this.props.theme}>Instrests</h1>
+                    <h1 className={"section-header-"+this.props.theme}>Interests</h1>
                     <ul className="no-style-list">
                         <li>
                             <Progress
@@ -148,7 +148,7 @@ class Exp extends React.Component{
                                 status="active"
                                 showInfo={false}
                                 />
-                            <h3 className={"subsection-content-"+this.props.theme}>Web Engenieering</h3>
+                            <h3 className={"subsection-content-"+this.props.theme}>Web Engineering</h3>
                         </li>
                         <li>
                             <Progress
