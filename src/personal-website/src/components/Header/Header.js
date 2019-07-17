@@ -16,7 +16,7 @@ class Header extends React.Component{
                     <Col span={10}>
                         <img src={propic} alt="Profile Picture" className="propic"/> 
                     </Col>
-                    <Col span={2}>
+                    <Col span={2} className="headerBtns">
                         <Row>
                         <div className={"cv-btn-"+this.props.theme}>
                             <a target="_blank" rel="noopener noreferrer" href="assets/misc/Armin_Sabouri_Resume.pdf" className={"site-btn-"+this.props.theme}>DOWNLOAD MY CV</a>

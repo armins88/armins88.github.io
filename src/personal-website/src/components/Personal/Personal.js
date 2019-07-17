@@ -21,7 +21,7 @@ class Personal extends React.Component{
                                 <br />
                                 
                                 <a target="_blank" rel="noopener noreferrer" href="assets/misc/AquaWatch.pdf" className={"site-btn-"+this.props.theme}>READ THE PAPER</a>
-                                <a target="_blank" rel="noopener noreferrer" href="assets/misc/AquaWatch.pdf" className={"site-btn-"+this.props.theme}>{this.toUpper("Hariri Institute Research Incubation Award.")}</a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://www.bu.edu/hic/research/incubated-research/incubation-awards/" className={"site-btn-"+this.props.theme}>{this.toUpper("Recipient of Hariri Institute Research Incubation Award")}</a>
                                 <div className={"header-btns-"+this.props.theme}>
                                     <a target="_blank" href="https://github.com/aqua-watch"><Icon type="github"></Icon></a>
                                 </div>
