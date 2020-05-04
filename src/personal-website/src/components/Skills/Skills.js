@@ -70,6 +70,16 @@ class Exp extends React.Component{
 
                             <Progress
                                 strokeColor={colorGradient}
+                                percent={70}
+                                status="active"
+                                showInfo={false}
+                                />
+                                <h3 className={"subsection-content-"+this.props.theme}>Embedded C++</h3>
+                        </li>
+                        <li>
+
+                            <Progress
+                                strokeColor={colorGradient}
                                 percent={66}
                                 status="active"
                                 showInfo={false}
