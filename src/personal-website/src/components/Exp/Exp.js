@@ -20,90 +20,54 @@ class Exp extends React.Component{
                     <Timeline>
                         <TimelineEvent title="NormaTec"
                                         subtitle="Full-stack/Embedded Engineer"
-                                        createdAt="1/1/2019 - Present"
+                                        createdAt="1/2019 - Present"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>                                        
 
-                                        Developing the user facing e-commerce web application and contributing to the corresponding backend API service. <a href="https://www.normatecrecovery.com/"> Check it out </a>                                        
-                                        Updating and improving the current firmware flashed on the latest generation of sports and medical devices and
-                                        contributing to the development of the next generation of devices. 
-                                        <br />
-                                        Technologies used:
-                                        <ul className="timeline-list">
-                                            <li>React</li>
-                                            <li>JSX</li>
-                                            <li>Redux</li>
-                                            <li>SCSS</li>
-                                            <li>Type Script</li>
-                                            <li>.NET Web Api</li>
-                                            <li>Entity Framework</li>
-                                            <li>AWS</li>
-                                            <li>Free RTOS</li>
-                                            <li>C</li>
-                                        </ul>
+Develop the user facing e-commerce web application that constitutes ~60% of business revenue, using <strong>React, Redux, SCSS,</strong> and <b>Typescript</b>. Develop the e-commerce backend API service in <b>.NET, EF and MySql</b>. <p />
+
+Develop multiple versions of an already published mobile app and its corresponding Node backend service using React Native, Sagas, Redux. <p />
+Design, develop, implement, and test  embedded software in various soft real-time pneumatic compressions systems using C and C++ on top of RTOS such as FreeRTOS.<p />
+Architect, develop and launch a desktop application to factory lines and internal services, designed to calibrate and test sports and health devices before they (re-)enter the field in .NET, replacing a process that previously took upwards of 15 min with one that consistently takes ~ 3 min. <p />  
+
                         </TimelineEvent>
                         <TimelineEvent title="MIT- Civil and Environmental Engineering"
-                                        createdAt="10/1/2017 - 12/1/2018"
+                                        createdAt="10/2017 - 12/2018"
                                         subtitle="Full-stack Engineer"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>                                        
 
-Developed a web portal for faculty, staff and students in the Department of Civil and Environmental Engineering at MIT. CEE affiliates can create, update, or view department/personal resources including student forms, departmental policies, and a department wide intranet designed to manage departmental resources.
-                                      <ul className="timeline-list">
-                                            <li>Es6, Css3</li>
-                                            <li>MySql</li>
-                                            <li>Python3</li>
-                                            <li>Php7</li>
-                                            <li>Ui/Ux</li>
-                                        </ul>
+Developed a web portal for faculty, staff and students in CEE, where users can create, update, or view department/personal resources including student forms, departmental policies, and  a department wide intranet designed to manage space.Technologies used included PHP7, MySQL, JQuery, and CSS3.
+                                        
                         </TimelineEvent>
                         <TimelineEvent title="Bluum Technologies"
                                         subtitle="Full-stack Engineer"
-                                        createdAt="5/15/2018 - 11/30/2018"
+                                        createdAt="5/2018 - 11/2018 Part-time contract"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>                                        
-Contributed to several front end applications using technologies including React and Redux. Lead the development of an backend API service for a webportal intended to be used by retail managers using frameworks such as Node and Lumen. Deployed decoupled web applications on Google Cloud Platform. 
-                                       <ul className="timeline-list">
-                                            <li>JSX</li>
-                                            <li>React/Redux</li>
-                                            <li>Lumen</li>
-                                            <li>Node</li>
-                                            <li>GCP</li>
-                                            <li>Css3</li>
-                                        </ul>
+Contributed to several front end applications using React and Redux. Led the development of an API service for a web portal intended to be used by retail managers created in Lumen. Managed deployment on Google Cloud Platform.
+                                      
                         </TimelineEvent>
                         <TimelineEvent title="Mass. General Hospital"
                                         subtitle="Data Science Intern"
-                                        createdAt="5/1/2017 - 9/15/2017"
+                                        createdAt="5/2017 - 10/2017"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>
-                                            Pioneered multiple data science projects, from the extraction process to statistical analysis and classification using Python, Mysql, Pandas, Numpy, Scipy. Worked with a team of engineers to successfully migrate MySql databases from an obsolete server to a newer server, using MySql, C#, Python. 
-                                       <ul className="timeline-list">
-                                            <li>Python3 -- Pandas, Scipy, Nump</li>
-                                            <li>C#</li>
-                                            <li>MySql</li>
-                                        </ul>
+                                        Pioneered multiple data science projects, from the data extraction process to statistical analysis and classification using Python, Mysql, Pandas, Numpy, and Scipy. <p /> Worked with a team of engineers to successfully migrate MySql databases from an obsolete server to a new server, using MySql, Python. 
+
                         </TimelineEvent>
                         <TimelineEvent title="Reggora Inc."
                                         subtitle="Software Engineering Intern"
-                                        createdAt="5/1/2017 - 9/15/2017"
+                                        createdAt="5/2017 - 9/2017"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>
-Designed a fully client side floor planning software intended for lenders and appraisers to create maps of real estate using Javascript, JQuery, React, CSS. Developed the maps module that assisted appraisers in making detailed reports using Python3, various third party REST API’s, MongoDB, React.
-                                       <ul className="timeline-list">
-                                            <li>Python3 </li>
-                                            <li>Flask</li>
-                                            <li>React</li>
-                                            <li>Typescript</li>
-                                            <li>Jquery</li>
-                                            <li>MongoDB</li>
-                                            <li>HTML5 canvas</li>
-                                        </ul>
+                        Designed a fully client side floor planning software intended for lenders and appraisers to create maps of real estate using Typescript, React, and CSS. 
+                        <p /> Developed parts of a backend service that assisted appraisers in making detailed reports using  Python3, various third party REST API’s, MongoDB, and React.
                         </TimelineEvent>
                 </Timeline>
                     </Col>
