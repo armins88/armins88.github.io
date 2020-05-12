@@ -52,7 +52,7 @@ same hardware.
                             <li>
                                 <h3 className={"subsection-header-"+this.props.theme}>Dislection</h3>
                                 <p className={"subsection-content-"+this.props.theme}>
-A small firefox extension to convert all fonts in the DOM to one tailored for Dyslexic readers. Dislection is part of a larger effort to bring accessibility to the web. I plan to extend the extension to dynamically change text-based content on the web to fit a specific readers needs. There is more research that needs to be done into how we exactly quantify good reading and what properties of text and/or web-page we change in order to better reading.
+A small firefox extension to convert all fonts in the DOM to one tailored for Dyslexic readers. Dislection is part of a larger effort to bring accessibility to the web. I plan to extend the extension to dynamically change text-based content on the web to fit a specific readers needs. There is more research that needs to be done into how we exactly quantify good reading and what properties of text and/or web-page we change in order to improve reading.
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/dislection/?src=search"> Current master branch </a>
 
@@ -63,7 +63,7 @@ A small firefox extension to convert all fonts in the DOM to one tailored for Dy
                             </li>
                             <li>
                                 <h3 className={"subsection-header-"+this.props.theme}>PID Self Balancing Board</h3>
-                                <p className={"subsection-content-"+this.props.theme}> Balancing a ball at a user determined set point using two servo motors moving a touch screen plane in the x and y direction.
+                                <p className={"subsection-content-"+this.props.theme}> Used PID control to balance a ball at a user determined set point using two servo motors to tilt a touch screen plane in the x and y direction.
                                 <hr />
 
                                 <div className={"header-btns-"+this.props.theme}>
@@ -88,7 +88,7 @@ A small firefox extension to convert all fonts in the DOM to one tailored for Dy
                             </li>
                             <li>
                                 <h3 className={"subsection-header-"+this.props.theme}>Fat Pants</h3>
-                                <p className={"subsection-content-"+this.props.theme}>Fat pants is a simple usb device built from scratch that dims and switches a set of lights. Submited as a final project for CS545 Embeded Systems
+                                <p className={"subsection-content-"+this.props.theme}>Fat pants is a simple usb device built from scratch that dims and switches a set of lights. Submited as a final project for CS545 Embedded Systems
                                 <hr />
                                 <div className={"header-btns-"+this.props.theme}>
                                     <a target="_blank" href="https://github.com/armins88/Fat_Pants"><Icon type="github"></Icon></a>
