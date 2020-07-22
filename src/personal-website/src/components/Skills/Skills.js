@@ -40,17 +40,7 @@ class Exp extends React.Component{
 
                             <Progress
                                 strokeColor={colorGradient}
-                                percent={83}
-                                status="active"
-                                showInfo={false}
-                                />
-                                <h3 className={"subsection-content-"+this.props.theme}>React</h3>
-                        </li>
-                        <li>
-
-                            <Progress
-                                strokeColor={colorGradient}
-                                percent={73}
+                                percent={65}
                                 status="active"
                                 showInfo={false}
                                 />
@@ -70,7 +60,7 @@ class Exp extends React.Component{
 
                             <Progress
                                 strokeColor={colorGradient}
-                                percent={70}
+                                percent={60}
                                 status="active"
                                 showInfo={false}
                                 />
@@ -80,21 +70,11 @@ class Exp extends React.Component{
 
                             <Progress
                                 strokeColor={colorGradient}
-                                percent={66}
-                                status="active"
-                                showInfo={false}
-                                />
-                                <h3 className={"subsection-content-"+this.props.theme}>Node</h3>
-                        </li>
-                        <li>
-
-                            <Progress
-                                strokeColor={colorGradient}
                                 percent={75}
                                 status="active"
                                 showInfo={false}
                                 />
-                                <h3 className={"subsection-content-"+this.props.theme}>PHP7</h3>
+                                <h3 className={"subsection-content-"+this.props.theme}>Node</h3>
                         </li>
                         <li>
 
@@ -125,6 +105,16 @@ class Exp extends React.Component{
                                 showInfo={false}
                                 />
                                 <h3 className={"subsection-content-"+this.props.theme}>UI/UX</h3>
+                        </li>
+                        <li>
+
+                            <Progress
+                                strokeColor={colorGradient}
+                                percent={45}
+                                status="active"
+                                showInfo={false}
+                                />
+                                <h3 className={"subsection-content-"+this.props.theme}>PHP7</h3>
                         </li>
                         <li>
 

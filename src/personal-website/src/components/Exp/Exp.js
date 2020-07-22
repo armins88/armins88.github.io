@@ -18,9 +18,19 @@ class Exp extends React.Component{
                 <Row type="flex" justify="center">
                     <Col>
                     <Timeline>
+                    <TimelineEvent title="Casa"
+                                        subtitle="Full-stack/Embedded Engineer"
+                                        createdAt="7/2020 - Present"
+                                        titleStyle={headerStyle}
+                                        contentStyle={contentStyle}
+                                        subtitleStyle={subtitleStyle}>                                        
+
+
+
+                        </TimelineEvent>
                         <TimelineEvent title="NormaTec"
                                         subtitle="Full-stack/Embedded Engineer"
-                                        createdAt="1/2019 - Present"
+                                        createdAt="1/2019 - 7/2020"
                                         titleStyle={headerStyle}
                                         contentStyle={contentStyle}
                                         subtitleStyle={subtitleStyle}>                                        
